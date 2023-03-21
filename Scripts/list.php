@@ -5,5 +5,6 @@
         <li>czerwony</li>
         <li>zielony</li>
         <li>niebieski</li>
+        <li>czarny</li>
     </ol>
 List;
