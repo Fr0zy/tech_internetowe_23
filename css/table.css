@@ -1,5 +1,8 @@
 table, tr, th, td{
-    border: solid 1px grey;
+    color: black;
+    background: lightseagreen;
+    font-family: "Lucida Console";
+    border: solid 2px dimgrey;
     padding: 10px;
     text-align: center;
     border-collapse: collapse;
